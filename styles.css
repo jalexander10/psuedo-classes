@@ -1,0 +1,49 @@
+.nav-menu-practice a:hover {
+    background-color: #F9A9FE !important;
+    transform: translateX(10px);
+    width: vw;
+    border: hidden;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.nav-menu-practice a:active {
+    background-color: #F138FF !important;
+}
+
+.nav-menu-practice a:first-child {
+    background-color: #FFA4A4;
+}
+
+.nav-menu-practice a:last-child {
+    background-color: #84E2FF;
+}
+.nav-menu-practice a:nth-child(2) {
+    background-color: #FFBD94;
+}
+.nav-menu-practice a:nth-child(3) {
+    background-color: #FEEFAB;
+}
+.nav-menu-practice a:nth-child(4) {
+    background-color: #AEFEAB;
+}
+
+
+body {
+  background-color: #FEC6E1;
+}
+.button {
+  width: vw;
+  display: block;
+  border: hidden;
+  background-color: #FF63B4;
+  border-radius: 5px;
+  height: 30px;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-bottom: 5px;
+}
+.nav-menu-practice a {
+  text-decoration: none;
+  color: black;
+}
